@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Space Shooter Template/Scenes/Start_Screen.unity
+    guid: 95a3096eb315b974b96008aff5ed5fc4
+  - enabled: 1
+    path: Assets/Space Shooter Template/Scenes/StageSelectScreen.unity
+    guid: 5033985e57e9ee34894c396b4e09131f
+  - enabled: 1
+    path: Assets/Space Shooter Template/Scenes/Stage1_Scene.unity
+    guid: 1c80210a60ca21b48b6777cc8ac8aaac
+  - enabled: 1
+    path: Assets/Space Shooter Template/Scenes/Stage2_Scene.unity
+    guid: 6c92ca031811d1b4292bdf05a75d4e90
+  - enabled: 1
+    path: Assets/Space Shooter Template/Scenes/Stage3_Scene.unity
+    guid: 282c502f2eb82a14894ce78bcfe6e3ac
+  - enabled: 1
+    path: Assets/Space Shooter Template/Scenes/Stage4_Scene.unity
+    guid: 45db71461a14cab41be8bedbe4a30db2
+  - enabled: 1
+    path: Assets/Space Shooter Template/Scenes/Stage5_Scene.unity
+    guid: 64a0be48793840d418aa510f1fa1605c
+  - enabled: 1
+    path: Assets/Space Shooter Template/Scenes/Stage6_Scene.unity
+    guid: a91b10fa520a99549b27039c95f004cb
+  - enabled: 1
+    path: Assets/Space Shooter Template/Scenes/Stage7_Scene.unity
+    guid: 47908cba4f73acf45bc2a4e67388b014
+  - enabled: 1
+    path: Assets/Space Shooter Template/Scenes/Stage8_Scene.unity
+    guid: f8f52edca34ef0242bdb6d37a9a4ac48
+  - enabled: 1
+    path: Assets/Space Shooter Template/Scenes/Stage9_Scene.unity
+    guid: 69690e34c224316469df7d74de3f02ef
+  - enabled: 1
+    path: Assets/Space Shooter Template/Scenes/Stage10_Scene.unity
+    guid: 8e815d24f1a7e9c42aa6b0c75360d8d9
+  - enabled: 1
+    path: Assets/Space Shooter Template/Scenes/Stage11_Scene.unity
+    guid: d2ea3a12e60def646ae82d6ce09bee2e
+  - enabled: 1
+    path: Assets/Space Shooter Template/Scenes/Stage12_Scene.unity
+    guid: b466a6d5b135e404a9e8e7f8320b2118
+  - enabled: 1
+    path: Assets/Space Shooter Template/Scenes/Stage13_Scene.unity
+    guid: 2097615e16f9f1c4898509103a635292
+  - enabled: 1
+    path: Assets/Space Shooter Template/Scenes/Stage14_Scene.unity
+    guid: e1526148dac3474479a57577e339e27b
+  - enabled: 1
+    path: Assets/Space Shooter Template/Scenes/Stage15_Scene.unity
+    guid: 430a4b15917761c4da1188fba49d2339
+  - enabled: 1
+    path: Assets/Space Shooter Template/Scenes/Stage16_Scene.unity
+    guid: 96b15cf3ec945cd44aafecc5c3b7adee
+  - enabled: 1
+    path: Assets/Space Shooter Template/Scenes/Stage17_Scene.unity
+    guid: aae8b0a74bc2d254aa97d7cd909884a4
+  - enabled: 1
+    path: Assets/Space Shooter Template/Scenes/Stage18_Scene.unity
+    guid: 7e6c06a8ec4dd2b49b388e05c829e411
+  - enabled: 1
+    path: Assets/Space Shooter Template/Scenes/Stage19_Scene.unity
+    guid: 2c53296c7d345244db91a72f0fce8db9
+  - enabled: 1
+    path: Assets/Space Shooter Template/Scenes/Stage20_Scene.unity
+    guid: 9bf69158e63ddfc41ae61b0e3c446a51
+  - enabled: 1
+    path: Assets/Space Shooter Template/Scenes/Clear_Stage.unity
+    guid: 9b06ab851786dc34b90ac3fee454482a
+  m_configObjects: {}

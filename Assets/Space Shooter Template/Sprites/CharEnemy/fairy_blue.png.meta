@@ -1,0 +1,1640 @@
+fileFormatVersion: 2
+guid: 067c873f37207f34a805c5ca17d780b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3017283813299849360
+    second: fairy_blue_0
+  - first:
+      213: 1900878838384951111
+    second: fairy_blue_1
+  - first:
+      213: -8865816152959548478
+    second: fairy_blue_2
+  - first:
+      213: -3886072224840683922
+    second: fairy_blue_3
+  - first:
+      213: 3042125880575808071
+    second: fairy_blue_4
+  - first:
+      213: 7337649476998937829
+    second: fairy_blue_5
+  - first:
+      213: 6735907681209240687
+    second: fairy_blue_6
+  - first:
+      213: 6277522822093596053
+    second: fairy_blue_7
+  - first:
+      213: -1806972704189589033
+    second: fairy_blue_8
+  - first:
+      213: -220161279254694055
+    second: fairy_blue_9
+  - first:
+      213: 5637230039257104812
+    second: fairy_blue_10
+  - first:
+      213: -6433421571708102638
+    second: fairy_blue_11
+  - first:
+      213: -8165951809419671942
+    second: fairy_blue_12
+  - first:
+      213: 8711192119662754235
+    second: fairy_blue_13
+  - first:
+      213: -718361330648006487
+    second: fairy_blue_14
+  - first:
+      213: -94868076741973769
+    second: fairy_blue_15
+  - first:
+      213: 7627002366587953912
+    second: fairy_blue_16
+  - first:
+      213: -190676379445676738
+    second: fairy_blue_17
+  - first:
+      213: -461256202405460714
+    second: fairy_blue_18
+  - first:
+      213: -7535812657009416022
+    second: fairy_blue_19
+  - first:
+      213: 8745487215345427608
+    second: fairy_blue_20
+  - first:
+      213: 328057489113154989
+    second: fairy_blue_21
+  - first:
+      213: 4769020413735092165
+    second: fairy_blue_22
+  - first:
+      213: 8620607001620684893
+    second: fairy_blue_23
+  - first:
+      213: 3018850544152357872
+    second: fairy_blue_24
+  - first:
+      213: -4216786669296639425
+    second: fairy_blue_25
+  - first:
+      213: 5997817198232256103
+    second: fairy_blue_26
+  - first:
+      213: 2303356020531095527
+    second: fairy_blue_27
+  - first:
+      213: 7902145731955885489
+    second: fairy_blue_28
+  - first:
+      213: 315675785779783810
+    second: fairy_blue_29
+  - first:
+      213: 9175151811791034878
+    second: fairy_blue_30
+  - first:
+      213: -6819227832455416995
+    second: fairy_blue_31
+  - first:
+      213: -2092434512017956384
+    second: fairy_blue_32
+  - first:
+      213: 2383446136762796712
+    second: fairy_blue_33
+  - first:
+      213: -8509073656972522114
+    second: fairy_blue_34
+  - first:
+      213: -3397900220130423558
+    second: fairy_blue_35
+  - first:
+      213: 4021391362890245189
+    second: fairy_blue_36
+  - first:
+      213: 7068364430703585362
+    second: fairy_blue_37
+  - first:
+      213: -2927511703035015423
+    second: fairy_blue_38
+  - first:
+      213: 5602325725226319937
+    second: fairy_blue_39
+  - first:
+      213: 9048740635367909329
+    second: fairy_blue_40
+  - first:
+      213: -4836294673397164394
+    second: fairy_blue_41
+  - first:
+      213: 7339871062776979862
+    second: fairy_blue_42
+  - first:
+      213: 6114297240215687483
+    second: fairy_blue_43
+  - first:
+      213: -7440232096603222721
+    second: fairy_blue_44
+  - first:
+      213: -626953846548083290
+    second: fairy_blue_45
+  - first:
+      213: -8783928724961371785
+    second: fairy_blue_46
+  - first:
+      213: 1727772835523209846
+    second: fairy_blue_47
+  - first:
+      213: 7629876744633442645
+    second: fairy_blue_48
+  - first:
+      213: 5385228363524291323
+    second: fairy_blue_49
+  - first:
+      213: 1987821688077030161
+    second: fairy_blue_50
+  - first:
+      213: 8572402329287980355
+    second: fairy_blue_51
+  - first:
+      213: 5418577905822476730
+    second: fairy_blue_52
+  - first:
+      213: -2117381597158459483
+    second: fairy_blue_53
+  - first:
+      213: 5819189277454359860
+    second: fairy_blue_54
+  - first:
+      213: -233990201756259833
+    second: fairy_blue_55
+  - first:
+      213: -7177139227041698971
+    second: fairy_blue_0
+  - first:
+      213: 7194242483742536782
+    second: fairy_blue_1
+  - first:
+      213: 500768787349556411
+    second: fairy_blue_2
+  - first:
+      213: 1186278484828019793
+    second: fairy_blue_3
+  - first:
+      213: 5369524257838153295
+    second: fairy_blue_4
+  - first:
+      213: -6858134339744126920
+    second: fairy_blue_5
+  - first:
+      213: 8281977819461794311
+    second: fairy_blue_6
+  - first:
+      213: -8500017725761322477
+    second: fairy_blue_7
+  - first:
+      213: -1400326681652417126
+    second: fairy_blue_8
+  - first:
+      213: 3581740825116462189
+    second: fairy_blue_9
+  - first:
+      213: -7296024474905547220
+    second: fairy_blue_10
+  - first:
+      213: -8396426242905121745
+    second: fairy_blue_11
+  - first:
+      213: 5450142324571192908
+    second: fairy_blue_12
+  - first:
+      213: 919292372253161875
+    second: fairy_blue_13
+  - first:
+      213: -4642708125129971725
+    second: fairy_blue_14
+  - first:
+      213: 1346888601764740716
+    second: fairy_blue_15
+  - first:
+      213: -2311411868066265466
+    second: fairy_blue_16
+  - first:
+      213: -5488661106819888310
+    second: fairy_blue_17
+  - first:
+      213: -5593386059810627870
+    second: fairy_blue_18
+  - first:
+      213: 6941439335552559256
+    second: fairy_blue_19
+  - first:
+      213: 4503136273065496888
+    second: fairy_blue_20
+  - first:
+      213: -689218688146253995
+    second: fairy_blue_21
+  - first:
+      213: 5303492264061014695
+    second: fairy_blue_22
+  - first:
+      213: 4453125066629207584
+    second: fairy_blue_23
+  - first:
+      213: 3655725234258541531
+    second: fairy_blue_24
+  - first:
+      213: -7521193252402326850
+    second: fairy_blue_25
+  - first:
+      213: -5365929265971917188
+    second: fairy_blue_26
+  - first:
+      213: -399070906739156534
+    second: fairy_blue_27
+  - first:
+      213: 3859359686424748752
+    second: fairy_blue_28
+  - first:
+      213: -3554434900109627338
+    second: fairy_blue_29
+  - first:
+      213: -5342335101745525907
+    second: fairy_blue_30
+  - first:
+      213: -6682093131504432243
+    second: fairy_blue_31
+  - first:
+      213: -1004410396355386693
+    second: fairy_blue_32
+  - first:
+      213: -259339857630730130
+    second: fairy_blue_33
+  - first:
+      213: 3138975096531134472
+    second: fairy_blue_34
+  - first:
+      213: -4997052055730345732
+    second: fairy_blue_35
+  - first:
+      213: 9188815454723373238
+    second: fairy_blue_36
+  - first:
+      213: 8271444826886429944
+    second: fairy_blue_37
+  - first:
+      213: -3709792146459911706
+    second: fairy_blue_38
+  - first:
+      213: 2055464215880654335
+    second: fairy_blue_39
+  - first:
+      213: -4733275558724950397
+    second: fairy_blue_40
+  - first:
+      213: 1673606677920776898
+    second: fairy_blue_41
+  - first:
+      213: 5041713916856501536
+    second: fairy_blue_42
+  - first:
+      213: 7559165800572258764
+    second: fairy_blue_43
+  - first:
+      213: 726012060832472506
+    second: fairy_blue_44
+  - first:
+      213: 3679912405554942321
+    second: fairy_blue_45
+  - first:
+      213: -1842719652997173844
+    second: fairy_blue_46
+  - first:
+      213: -488118439565147627
+    second: fairy_blue_47
+  - first:
+      213: 8679394083459209048
+    second: fairy_blue_48
+  - first:
+      213: -5112854324248418189
+    second: fairy_blue_49
+  - first:
+      213: 7614798662456834749
+    second: fairy_blue_50
+  - first:
+      213: -1493312806263361300
+    second: fairy_blue_51
+  - first:
+      213: 6830077990548360412
+    second: fairy_blue_52
+  - first:
+      213: -323273707435227775
+    second: fairy_blue_53
+  - first:
+      213: -2348112106307195761
+    second: fairy_blue_54
+  - first:
+      213: 5915224891086746441
+    second: fairy_blue_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fairy_blue_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 482
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b68ac26eda56c90800000000000000
+      internalID: -7177139227041698971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 482
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e447f771c6517d360800000000000000
+      internalID: 7194242483742536782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 482
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcc2941f8613f600800000000000000
+      internalID: 500768787349556411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 482
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cdcdc2ff1867010800000000000000
+      internalID: 1186278484828019793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 482
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e39411dd1648a40800000000000000
+      internalID: 5369524257838153295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 482
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838a4a9672303d0a0800000000000000
+      internalID: -6858134339744126920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 482
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a3fae62fe7fe270800000000000000
+      internalID: 8281977819461794311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 482
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3120977d9eed90a80800000000000000
+      internalID: -8500017725761322477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 482
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d2b926d4a019ce0800000000000000
+      internalID: -1400326681652417126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 482
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cc496bd46e4b130800000000000000
+      internalID: 3581740825116462189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 482
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ee2b465605fba90800000000000000
+      internalID: -7296024474905547220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 482
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c5fd871d6e97b80800000000000000
+      internalID: -8396426242905121745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_12
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 482
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e336f619bc2ab40800000000000000
+      internalID: 5450142324571192908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_13
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 482
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39930ecba8bf1cc00800000000000000
+      internalID: 919292372253161875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 440
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7eecdee89c19fb0800000000000000
+      internalID: -4642708125129971725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 440
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6eb5341c0c11b210800000000000000
+      internalID: 1346888601764740716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 440
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686c94207273cefd0800000000000000
+      internalID: -2311411868066265466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 440
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b8f73bdcb54d3b0800000000000000
+      internalID: -5488661106819888310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_18
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 440
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee9d5d730d4062b0800000000000000
+      internalID: -5593386059810627870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_19
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 440
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898a8816c42f45060800000000000000
+      internalID: 6941439335552559256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 440
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831de3be49a5e7e30800000000000000
+      internalID: 4503136273065496888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 392
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5575b7831476f66f0800000000000000
+      internalID: -689218688146253995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_22
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 392
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a293647d1ac99940800000000000000
+      internalID: 5303492264061014695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_23
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 392
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02652d887adaccd30800000000000000
+      internalID: 4453125066629207584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_24
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 392
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb79605bbebbb230800000000000000
+      internalID: 3655725234258541531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_25
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 392
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb29e7ff59a5f9790800000000000000
+      internalID: -7521193252402326850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_26
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 392
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e0fd333c36885b0800000000000000
+      internalID: -5365929265971917188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 392
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac99e9bef17367af0800000000000000
+      internalID: -399070906739156534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 343
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d26fc1ef233f8530800000000000000
+      internalID: 3859359686424748752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_29
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 345
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630f6b16a4c1caec0800000000000000
+      internalID: -3554434900109627338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_30
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 343
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b8b55a7863cd5b0800000000000000
+      internalID: -5342335101745525907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_31
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 343
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bc99c33bf6443a0800000000000000
+      internalID: -6682093131504432243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_32
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 342
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2278ce01e9f02f0800000000000000
+      internalID: -1004410396355386693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_33
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 341
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68e1d506c3a66cf0800000000000000
+      internalID: -259339857630730130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_34
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 343
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80829832831ef8b20800000000000000
+      internalID: 3138975096531134472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 295
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8ae0e71a7e6aab0800000000000000
+      internalID: -4997052055730345732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_36
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 297
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8f76db8fa358f70800000000000000
+      internalID: 9188815454723373238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_37
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 295
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcdecdfe331ac270800000000000000
+      internalID: 8271444826886429944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 295
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e919b7b2bb248cc0800000000000000
+      internalID: -3709792146459911706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_39
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 294
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdd71460d9768c10800000000000000
+      internalID: 2055464215880654335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_40
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 293
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386292215f6005eb0800000000000000
+      internalID: -4733275558724950397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_41
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 295
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2803b0868d93710800000000000000
+      internalID: 1673606677920776898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 236
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02500616814c7f540800000000000000
+      internalID: 5041713916856501536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_43
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 240
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc90465de3d87e860800000000000000
+      internalID: 7559165800572258764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_44
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 240
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd919c6f10531a00800000000000000
+      internalID: 726012060832472506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_45
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 235
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171d7a9f5dca11330800000000000000
+      internalID: 3679912405554942321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_46
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 236
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cade87e1d385d66e0800000000000000
+      internalID: -1842719652997173844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_47
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 235
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512c6698ddad939f0800000000000000
+      internalID: -488118439565147627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_48
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 235
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857963afee6637870800000000000000
+      internalID: 8679394083459209048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 172
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3786ad6c41e7b09b0800000000000000
+      internalID: -5112854324248418189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 176
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbafbdfd9033da960800000000000000
+      internalID: 7614798662456834749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_51
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 176
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce071242aefa64be0800000000000000
+      internalID: -1493312806263361300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_52
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 171
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc49debebf49ce50800000000000000
+      internalID: 6830077990548360412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_53
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 172
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185891f9640838bf0800000000000000
+      internalID: -323273707435227775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_54
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 171
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ce3caea74d96fd0800000000000000
+      internalID: -2348112106307195761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_blue_55
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 171
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94336cfb2b9171250800000000000000
+      internalID: 5915224891086746441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1019 @@
+fileFormatVersion: 2
+guid: fc0b5ba2b4339d944b23ad95845851c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1310368561125959198
+    second: dot_iku_0
+  - first:
+      213: -173806411647105042
+    second: dot_iku_1
+  - first:
+      213: -4225491309222986531
+    second: dot_iku_2
+  - first:
+      213: -8699835091618746047
+    second: dot_iku_3
+  - first:
+      213: -4430951236359327705
+    second: dot_iku_4
+  - first:
+      213: 8137818818351990790
+    second: dot_iku_5
+  - first:
+      213: 4529950373596270230
+    second: dot_iku_6
+  - first:
+      213: -3470161324082552309
+    second: dot_iku_7
+  - first:
+      213: -4259217031082342474
+    second: dot_iku_8
+  - first:
+      213: 2367927055404854011
+    second: dot_iku_9
+  - first:
+      213: 2590923639116480506
+    second: dot_iku_10
+  - first:
+      213: 4067088495969161747
+    second: dot_iku_11
+  - first:
+      213: 8426330909209881262
+    second: dot_iku_12
+  - first:
+      213: -2591884782518544009
+    second: dot_iku_13
+  - first:
+      213: -2249692091250693757
+    second: dot_iku_14
+  - first:
+      213: -45567862563194781
+    second: dot_iku_15
+  - first:
+      213: 4407740108132400003
+    second: dot_iku_16
+  - first:
+      213: 756838708886824754
+    second: dot_iku_17
+  - first:
+      213: 1936799317486779923
+    second: dot_iku_18
+  - first:
+      213: 2082230894672791304
+    second: dot_iku_19
+  - first:
+      213: 7989129826255650506
+    second: dot_iku_20
+  - first:
+      213: 1309895802998999271
+    second: dot_iku_21
+  - first:
+      213: 3618304239266316017
+    second: dot_iku_22
+  - first:
+      213: 2671757585755825525
+    second: dot_iku_23
+  - first:
+      213: -6586573451123801004
+    second: dot_iku_24
+  - first:
+      213: 8509163911448951586
+    second: dot_iku_25
+  - first:
+      213: 1980702213761561110
+    second: dot_iku_26
+  - first:
+      213: -8281169543269220919
+    second: dot_iku_27
+  - first:
+      213: -7590158450635590578
+    second: dot_iku_28
+  - first:
+      213: 5927043883062035478
+    second: dot_iku_29
+  - first:
+      213: 694377082991355178
+    second: dot_iku_30
+  - first:
+      213: 1573879169079482704
+    second: dot_iku_31
+  - first:
+      213: -5231266577638705664
+    second: dot_iku_32
+  - first:
+      213: 4940812992378731981
+    second: dot_iku_33
+  - first:
+      213: -1391042196991847821
+    second: dot_iku_34
+  - first:
+      213: -3970587603975322017
+    second: dot_iku_35
+  - first:
+      213: -3410697714117836167
+    second: dot_iku_36
+  - first:
+      213: -2258717760622972448
+    second: dot_iku_37
+  - first:
+      213: 1330703289290271288
+    second: dot_iku_38
+  - first:
+      213: 2901906642292300130
+    second: dot_iku_39
+  - first:
+      213: 2818598410266834227
+    second: dot_iku_40
+  - first:
+      213: -1902197066758710669
+    second: dot_iku_41
+  - first:
+      213: 7031458416289785059
+    second: dot_iku_42
+  - first:
+      213: 3118003057265588401
+    second: dot_iku_43
+  - first:
+      213: -6481234683840374358
+    second: dot_iku_44
+  - first:
+      213: -7905735392036905905
+    second: dot_iku_45
+  - first:
+      213: 9160139835978426522
+    second: dot_iku_46
+  - first:
+      213: 6514642112451713929
+    second: dot_iku_47
+  - first:
+      213: -3417679478874789262
+    second: dot_iku_48
+  - first:
+      213: -8131772973718912755
+    second: dot_iku_49
+  - first:
+      213: -1789304464000523229
+    second: dot_iku_50
+  - first:
+      213: 4426974802988552979
+    second: dot_iku_51
+  - first:
+      213: -5501987962463635845
+    second: dot_iku_52
+  - first:
+      213: 8266278935031735925
+    second: dot_iku_53
+  - first:
+      213: -3381772405136095067
+    second: dot_iku_54
+  - first:
+      213: 5382107548992471045
+    second: dot_iku_55
+  - first:
+      213: 5687880510162863582
+    second: dot_iku_56
+  - first:
+      213: -6929107463080064065
+    second: dot_iku_57
+  - first:
+      213: 3382016970668134139
+    second: dot_iku_58
+  - first:
+      213: 4530989113964189213
+    second: dot_iku_59
+  - first:
+      213: 5992192754008384699
+    second: dot_iku_60
+  - first:
+      213: 6404530853016899449
+    second: dot_iku_61
+  - first:
+      213: -8860070248302045620
+    second: dot_iku_62
+  - first:
+      213: 8263657057717400509
+    second: dot_iku_63
+  - first:
+      213: -6183530850362073042
+    second: dot_iku_64
+  - first:
+      213: 301429899815913750
+    second: dot_iku_65
+  - first:
+      213: -1971491038480352042
+    second: dot_iku_66
+  - first:
+      213: -2429284951772717300
+    second: dot_iku_67
+  - first:
+      213: -1410040369751240981
+    second: dot_iku_68
+  - first:
+      213: 6277877852350500581
+    second: dot_iku_69
+  - first:
+      213: 611022507427574592
+    second: dot_iku_70
+  - first:
+      213: -1485537016145757045
+    second: dot_iku_71
+  - first:
+      213: 1239558760485721792
+    second: dot_iku_72
+  - first:
+      213: -2484810893526242524
+    second: dot_iku_73
+  - first:
+      213: -2325370366412390276
+    second: dot_iku_74
+  - first:
+      213: -3307312647048733727
+    second: dot_iku_75
+  - first:
+      213: -7612065878403120391
+    second: dot_iku_76
+  - first:
+      213: 1063641279757939036
+    second: dot_iku_77
+  - first:
+      213: 1727236239435424063
+    second: dot_iku_78
+  - first:
+      213: -1983579574701116580
+    second: dot_iku_79
+  - first:
+      213: -5915059085426098034
+    second: dot_iku_80
+  - first:
+      213: 8462620211633451796
+    second: dot_iku_81
+  - first:
+      213: 1119800226439538589
+    second: dot_iku_82
+  - first:
+      213: -5498238962617285877
+    second: dot_iku_83
+  - first:
+      213: 2013994564169446135
+    second: dot_iku_84
+  - first:
+      213: 7210806923887139113
+    second: dot_iku_85
+  - first:
+      213: 1882682080320563022
+    second: dot_iku_86
+  - first:
+      213: 6501780883420642488
+    second: dot_iku_87
+  - first:
+      213: -2787321122248431318
+    second: dot_iku_88
+  - first:
+      213: -8403419106524058954
+    second: dot_iku_89
+  - first:
+      213: -4062990386198958150
+    second: dot_iku_90
+  - first:
+      213: -7117282383213622304
+    second: dot_iku_91
+  - first:
+      213: 304804734344387467
+    second: dot_iku_92
+  - first:
+      213: -4275421942981709058
+    second: dot_iku_93
+  - first:
+      213: -6030793861891705134
+    second: dot_iku_94
+  - first:
+      213: -1951733184702213843
+    second: dot_iku_95
+  - first:
+      213: -2403586072798377651
+    second: dot_iku_96
+  - first:
+      213: -8957609846309096101
+    second: dot_iku_97
+  - first:
+      213: 3348800145028292363
+    second: dot_iku_98
+  - first:
+      213: 8875234405869812558
+    second: dot_iku_99
+  - first:
+      213: -5594145406967824421
+    second: dot_iku_100
+  - first:
+      213: 8348536405143034138
+    second: dot_iku_101
+  - first:
+      213: 4554768951070772077
+    second: dot_iku_102
+  - first:
+      213: -9185323983223323616
+    second: dot_iku_103
+  - first:
+      213: 943437798002314497
+    second: dot_iku_104
+  - first:
+      213: 9057442263128550402
+    second: dot_iku_105
+  - first:
+      213: -5282307526560109023
+    second: dot_iku_106
+  - first:
+      213: 5486211637185604559
+    second: dot_iku_107
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dot_iku_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 416
+        width: 32
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16a0c2834d5f2210800000000000000
+      internalID: 1310368561125959198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot_iku_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 416
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7c61e4df3869df0800000000000000
+      internalID: -173806411647105042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot_iku_2
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 415
+        width: 32
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc7348ba0a0c55c0800000000000000
+      internalID: -4225491309222986531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot_iku_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 416
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141369fe31af34780800000000000000
+      internalID: -8699835091618746047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot_iku_4
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 419
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72079b3a3591282c0800000000000000
+      internalID: -4430951236359327705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot_iku_5
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 417
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6080c5a69175fe070800000000000000
+      internalID: 8137818818351990790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot_iku_6
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 416
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e8a543ddd9dde30800000000000000
+      internalID: 4529950373596270230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot_iku_7
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 415
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02a2c459a287dfc0800000000000000
+      internalID: -3470161324082552309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot_iku_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 288
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b70b013da834e4c0800000000000000
+      internalID: -4259217031082342474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot_iku_9
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 288
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa617f6c119cd020800000000000000
+      internalID: 2367927055404854011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot_iku_10
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 287
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff33bd825fc4f320800000000000000
+      internalID: 2590923639116480506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot_iku_11
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 288
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312d1505073317830800000000000000
+      internalID: 4067088495969161747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot_iku_12
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 288
+        width: 29
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa695b315750f470800000000000000
+      internalID: 8426330909209881262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot_iku_13
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 288
+        width: 29
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779dd3fc586c70cd0800000000000000
+      internalID: -2591884782518544009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot_iku_14
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 287
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3892ffe56fc77c0e0800000000000000
+      internalID: -2249692091250693757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot_iku_15
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 287
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3683fba354c1e5ff0800000000000000
+      internalID: -45567862563194781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot_iku_16
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 160
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b397f66407b2d30800000000000000
+      internalID: 4407740108132400003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot_iku_17
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 159
+        width: 32
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237e67bbbc4d08a00800000000000000
+      internalID: 756838708886824754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot_iku_18
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 160
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31eb408b7b4e0ea10800000000000000
+      internalID: 1936799317486779923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot_iku_19
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 159
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807c05177f195ec10800000000000000
+      internalID: 2082230894672791304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot_iku_20
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 157
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace327eaf371fde60800000000000000
+      internalID: 7989129826255650506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot_iku_21
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 159
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8c78eea4fad2210800000000000000
+      internalID: 1309895802998999271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot_iku_22
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 159
+        width: 102
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe32c6f88cc63230800000000000000
+      internalID: 3618304239266316017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot_iku_23
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 31
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5756ee06e5df31520800000000000000
+      internalID: 2671757585755825525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot_iku_24
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 31
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4544fb6e75ac794a0800000000000000
+      internalID: -6586573451123801004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot_iku_25
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 31
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bfc757e7f961670800000000000000
+      internalID: 8509163911448951586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot_iku_26
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 32
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61276115b2edc7b10800000000000000
+      internalID: 1980702213761561110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

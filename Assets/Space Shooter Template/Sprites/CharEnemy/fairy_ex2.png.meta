@@ -1,0 +1,1472 @@
+fileFormatVersion: 2
+guid: 04f1ad96165bd6845aecf36adc8b92c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3526677181814729877
+    second: fairy_ex2_0
+  - first:
+      213: 3237409892630439211
+    second: fairy_ex2_1
+  - first:
+      213: 3549058593340524712
+    second: fairy_ex2_2
+  - first:
+      213: -8371065971424153700
+    second: fairy_ex2_3
+  - first:
+      213: -643427176082563390
+    second: fairy_ex2_4
+  - first:
+      213: 8532112112428672775
+    second: fairy_ex2_5
+  - first:
+      213: 9051646116350981560
+    second: fairy_ex2_6
+  - first:
+      213: 4331495469186656922
+    second: fairy_ex2_7
+  - first:
+      213: -5299582184549630590
+    second: fairy_ex2_8
+  - first:
+      213: -6603065536775890336
+    second: fairy_ex2_9
+  - first:
+      213: -8193424494161758402
+    second: fairy_ex2_10
+  - first:
+      213: 1836732467312350137
+    second: fairy_ex2_11
+  - first:
+      213: 7800586372227087564
+    second: fairy_ex2_12
+  - first:
+      213: 1145963875032112492
+    second: fairy_ex2_13
+  - first:
+      213: 4757261022806818304
+    second: fairy_ex2_14
+  - first:
+      213: 2131510545414944377
+    second: fairy_ex2_15
+  - first:
+      213: 3479994594628715757
+    second: fairy_ex2_16
+  - first:
+      213: 6651657352377286654
+    second: fairy_ex2_17
+  - first:
+      213: 869884024434298140
+    second: fairy_ex2_18
+  - first:
+      213: -6002644577295847253
+    second: fairy_ex2_19
+  - first:
+      213: 3514491044074674493
+    second: fairy_ex2_20
+  - first:
+      213: -2609448076141768312
+    second: fairy_ex2_21
+  - first:
+      213: 8591717469553272525
+    second: fairy_ex2_22
+  - first:
+      213: -8199850363273164410
+    second: fairy_ex2_23
+  - first:
+      213: -173835773509660884
+    second: fairy_ex2_24
+  - first:
+      213: -526546252478423215
+    second: fairy_ex2_25
+  - first:
+      213: 6268032856680352073
+    second: fairy_ex2_26
+  - first:
+      213: -2254900916034832245
+    second: fairy_ex2_27
+  - first:
+      213: -528712131088508338
+    second: fairy_ex2_28
+  - first:
+      213: -4376874630577571271
+    second: fairy_ex2_29
+  - first:
+      213: -7351934665451266672
+    second: fairy_ex2_30
+  - first:
+      213: -7517100183004811686
+    second: fairy_ex2_31
+  - first:
+      213: -5707575152555850928
+    second: fairy_ex2_32
+  - first:
+      213: -7840798245005090244
+    second: fairy_ex2_33
+  - first:
+      213: -4024629837473965879
+    second: fairy_ex2_34
+  - first:
+      213: -4413032565764869670
+    second: fairy_ex2_35
+  - first:
+      213: 6934964062193908737
+    second: fairy_ex2_36
+  - first:
+      213: -6561453024401494465
+    second: fairy_ex2_37
+  - first:
+      213: -7379576774062611261
+    second: fairy_ex2_38
+  - first:
+      213: 464119426764781088
+    second: fairy_ex2_39
+  - first:
+      213: 6100208506566904157
+    second: fairy_ex2_40
+  - first:
+      213: -2988755124979311855
+    second: fairy_ex2_41
+  - first:
+      213: 6319539604458833274
+    second: fairy_ex2_42
+  - first:
+      213: -3345555556030849423
+    second: fairy_ex2_43
+  - first:
+      213: 5211150036614649441
+    second: fairy_ex2_44
+  - first:
+      213: 4300008722154301641
+    second: fairy_ex2_45
+  - first:
+      213: 4825295335142721483
+    second: fairy_ex2_46
+  - first:
+      213: -2266272061274815974
+    second: fairy_ex2_47
+  - first:
+      213: 205170110090956304
+    second: fairy_ex2_48
+  - first:
+      213: 9202931583354581532
+    second: fairy_ex2_49
+  - first:
+      213: 1580878653669600341
+    second: fairy_ex2_50
+  - first:
+      213: -7140251188524684513
+    second: fairy_ex2_51
+  - first:
+      213: -7812185544668708256
+    second: fairy_ex2_52
+  - first:
+      213: 8832937417268614190
+    second: fairy_ex2_53
+  - first:
+      213: -3879822787146802172
+    second: fairy_ex2_54
+  - first:
+      213: -7502513246683665023
+    second: fairy_ex2_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fairy_ex2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 482
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63157cc9c9be0fc0800000000000000
+      internalID: -3526677181814729877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 482
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25a29215279dec20800000000000000
+      internalID: 3237409892630439211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 482
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a80c17acf9c04130800000000000000
+      internalID: 3549058593340524712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 482
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f27edc9dff3db80800000000000000
+      internalID: -8371065971424153700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 482
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce14c274661217f0800000000000000
+      internalID: -643427176082563390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 479
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7076e1dd2c6286670800000000000000
+      internalID: 8532112112428672775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 482
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5f4a56f28ed9d70800000000000000
+      internalID: 9051646116350981560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 482
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9aa5131e209c1c30800000000000000
+      internalID: 4331495469186656922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 482
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d3eefd41a1476b0800000000000000
+      internalID: -5299582184549630590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 482
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a59dbf0e23d54a0800000000000000
+      internalID: -6603065536775890336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 482
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37f08b45db1b4e80800000000000000
+      internalID: -8193424494161758402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 482
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3549592726d7910800000000000000
+      internalID: 1836732467312350137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_12
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 479
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc395ce9ff314c60800000000000000
+      internalID: 7800586372227087564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_13
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 479
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d18b0a21847ef00800000000000000
+      internalID: 1145963875032112492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 440
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e3638f1bf250240800000000000000
+      internalID: 4757261022806818304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 440
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976f47e3c85a49d10800000000000000
+      internalID: 2131510545414944377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 440
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4cf1165ac6b4030800000000000000
+      internalID: 3479994594628715757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 440
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff3018be1f6f4c50800000000000000
+      internalID: 6651657352377286654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_18
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 440
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d813059e2721c00800000000000000
+      internalID: 869884024434298140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_19
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 440
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba03b517f8252bca0800000000000000
+      internalID: -6002644577295847253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 440
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39dc58ebfaf5c030800000000000000
+      internalID: 3514491044074674493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 392
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8815eb9dcc069cbd0800000000000000
+      internalID: -2609448076141768312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_22
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 392
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6ad378489eb3770800000000000000
+      internalID: 8591717469553272525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_23
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 392
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689cebd0a87443e80800000000000000
+      internalID: -8199850363273164410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_24
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 392
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f83b6f849669df0800000000000000
+      internalID: -173835773509660884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_25
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 392
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fd53f19f451b8f0800000000000000
+      internalID: -526546252478423215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_26
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 392
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949c8e67ca68cf650800000000000000
+      internalID: 6268032856680352073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_27
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 392
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b887a08509bf4b0e0800000000000000
+      internalID: -2254900916034832245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 343
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a97063e13a9a8f0800000000000000
+      internalID: -528712131088508338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_29
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 343
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a310296b73243c0800000000000000
+      internalID: -4376874630577571271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_30
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 339
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d95edbf5ea8f990800000000000000
+      internalID: -7351934665451266672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_31
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 343
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e69faf535eda790800000000000000
+      internalID: -7517100183004811686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_32
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 342
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053001783ae9ac0b0800000000000000
+      internalID: -5707575152555850928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_33
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 341
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3227fad983ef2390800000000000000
+      internalID: -7840798245005090244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_34
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 343
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c81de87c74a528c0800000000000000
+      internalID: -4024629837473965879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 295
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1ba5f3342c1c2c0800000000000000
+      internalID: -4413032565764869670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_36
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 297
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cfa215211fd3060800000000000000
+      internalID: 6934964062193908737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_37
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 295
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ee2260d3901f4a0800000000000000
+      internalID: -6561453024401494465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 295
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4664dc50a769990800000000000000
+      internalID: -7379576774062611261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_39
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 291
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0263cadd822e07600800000000000000
+      internalID: 464119426764781088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_40
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 293
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d598cb1015b48a450800000000000000
+      internalID: 6100208506566904157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_41
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 295
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bdaf68c0fc586d0800000000000000
+      internalID: -2988755124979311855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_42
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 235
+        width: 117
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7508c3b9c383b750800000000000000
+      internalID: 6319539604458833274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 236
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e527282f23291d0800000000000000
+      internalID: -3345555556030849423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_44
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 240
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1661ea33959b15840800000000000000
+      internalID: 5211150036614649441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_45
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 235
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8a61f7623bcab30800000000000000
+      internalID: 4300008722154301641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_46
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 235
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc70883ba84e6f240800000000000000
+      internalID: 4825295335142721483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_47
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 235
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12825741959c80e0800000000000000
+      internalID: -2266272061274815974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_48
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 235
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ecf7ac029e8d200800000000000000
+      internalID: 205170110090956304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 172
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12b21e048167bf70800000000000000
+      internalID: 9202931583354581532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 176
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c69f872c860f510800000000000000
+      internalID: 1580878653669600341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_51
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 56
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bececef5bb8ec90800000000000000
+      internalID: -7140251188524684513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_52
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 171
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062849a43aa859390800000000000000
+      internalID: -7812185544668708256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_53
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 171
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e245d8738c5e49a70800000000000000
+      internalID: 8832937417268614190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_54
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 171
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c16a43bb9182ac0800000000000000
+      internalID: -3879822787146802172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy_ex2_55
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 171
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18de1c0c3f7b1e790800000000000000
+      internalID: -7502513246683665023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
